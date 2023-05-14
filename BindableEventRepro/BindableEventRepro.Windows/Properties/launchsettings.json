@@ -1,0 +1,10 @@
+{
+  "profiles": {
+	"BindableEventRepro.Windows (Package)": {
+	  "commandName": "MsixPackage"
+	},
+	"BindableEventRepro.Windows (Unpackaged)": {
+	  "commandName": "Project"
+	}
+  }
+}
